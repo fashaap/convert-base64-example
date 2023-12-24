@@ -6,7 +6,7 @@
 Clone the project
 
 ```bash
-  git clone [https://link-to-project](https://github.com/fashaap/convert-base64-example.git)
+  git clone https://link-to-project](https://github.com/fashaap/convert-base64-example.git)
 ```
 
 Go to the project directory
