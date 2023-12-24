@@ -1,6 +1,38 @@
 
 # Cara convert image to base64 dan sebaliknya
 
+## STEP 1
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Install liblary
+```bash
+  npm install axios
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+## STEP 2
 
 
 ```javascript
